@@ -1,0 +1,14 @@
+c:\users\qwmq\documents\visual studio 2012\Projects\ADStatus\ADStatus\bin\Debug\ADStatus.exe.config
+C:\Users\qwmq\Documents\Visual Studio 2012\Projects\ADStatus\ADStatus\obj\Debug\ADStatus.csprojResolveAssemblyReference.cache
+C:\Users\qwmq\Documents\Visual Studio 2012\Projects\ADStatus\ADStatus\obj\Debug\MainWindow.baml
+C:\Users\qwmq\Documents\Visual Studio 2012\Projects\ADStatus\ADStatus\obj\Debug\MainWindow.g.cs
+C:\Users\qwmq\Documents\Visual Studio 2012\Projects\ADStatus\ADStatus\obj\Debug\App.g.cs
+C:\Users\qwmq\Documents\Visual Studio 2012\Projects\ADStatus\ADStatus\obj\Debug\ADStatus_MarkupCompile.cache
+C:\Users\qwmq\Documents\Visual Studio 2012\Projects\ADStatus\ADStatus\obj\Debug\ADStatus.g.resources
+C:\Users\qwmq\Documents\Visual Studio 2012\Projects\ADStatus\ADStatus\obj\Debug\ADStatus.Properties.Resources.resources
+C:\Users\qwmq\Documents\Visual Studio 2012\Projects\ADStatus\ADStatus\obj\Debug\ADStatus.csproj.GenerateResource.Cache
+C:\Users\qwmq\Documents\Visual Studio 2012\Projects\ADStatus\ADStatus\bin\Debug\ADStatus.exe
+C:\Users\qwmq\Documents\Visual Studio 2012\Projects\ADStatus\ADStatus\bin\Debug\ADStatus.pdb
+C:\Users\qwmq\Documents\Visual Studio 2012\Projects\ADStatus\ADStatus\bin\Debug\System.Management.Automation.dll
+C:\Users\qwmq\Documents\Visual Studio 2012\Projects\ADStatus\ADStatus\obj\Debug\ADStatus.exe
+C:\Users\qwmq\Documents\Visual Studio 2012\Projects\ADStatus\ADStatus\obj\Debug\ADStatus.pdb
