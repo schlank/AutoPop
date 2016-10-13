@@ -1,0 +1,17 @@
+version: 1.0.{build}
+branches:
+  only:
+  - ci
+build:
+  verbosity: detailed
+artifacts:
+- path: '\ADStatus\bin\Debug\ADStatus.exe'
+  name: ADStatus
+deploy:
+- provider: GitHub
+  auth_token:
+    secure: sJ3fS8yMWSuQ/ojOnvKiY8U9R8ghJQ3W1VMYoyCqS5/JdQwDPgmZHKYqH3N0yDvH
+  artifact: C:\projects\autopop\ADStatus\bin\Debug\ADStatus.exe
+  draft: false
+  prerelease: true
+  force_update: true
