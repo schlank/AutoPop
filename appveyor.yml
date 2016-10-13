@@ -1,3 +1,5 @@
+language: csharp
+solution: ADStatus.sln
 version: 1.0.{build}
 branches:
   only:
